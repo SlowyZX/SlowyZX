@@ -2,4 +2,4 @@
 
 [![Semen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlowyZX)](https://github.com/anuraghazra/github-readme-stats)
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Мои инструменты :
