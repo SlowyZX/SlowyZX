@@ -1,6 +1,12 @@
-![Semen's github stats](https://github-readme-stats.vercel.app/api?username=SlowyZX&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=dbba58)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlowyZX&theme=solarized_dark)
 
-[![Semen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlowyZX)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SlowyZX&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlowyZX&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlowyZX&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlowyZX&theme=solarized_dark)
 ---
 ### :hammer_and_wrench: Мои инструменты :
 <div>
