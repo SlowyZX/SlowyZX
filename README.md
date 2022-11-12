@@ -1,12 +1,14 @@
+<div>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlowyZX&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SlowyZX&theme=solarized_dark)
 
-(https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlowyZX&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlowyZX&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlowyZX&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlowyZX&theme=solarized_dark)
+             </div>
 ---
 ### :hammer_and_wrench: Мои инструменты :
 <div>
