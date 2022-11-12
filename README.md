@@ -1,7 +1,5 @@
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlowyZX&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username==SlowyZX&theme=solarized_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlowyZX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### :hammer_and_wrench: Мои инструменты :
